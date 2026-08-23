@@ -55,7 +55,7 @@ const PROJECTS = [
     title: "LinSentry",
     category: "Bash . Shell . Coming Soon",
     year: "2026",
-    url: "",
+    url: "https://github.com/phadecoh8/LinSentry",
     desc: "A linux lightweight security hardening auditor, written in Bash.",
     img: "https://www.shutterstock.com/image-photo/close-colorful-bash-shell-script-code-2681432031?trackingId=945c4673-d503-4b04-b7f6-946b363c67b9&listId=searchResults",
     alt: "LinSentry",
@@ -260,7 +260,7 @@ function Hero() {
         <div className="mt-16 flex items-center gap-3">
           <span className="w-2 h-2 rounded-full bg-[#c8ff00] animate-pulse" />
           <span className="text-xs text-muted-foreground tracking-widest" style={{ fontFamily: "'DM Mono', monospace" }}>
-            AVAILABLE FOR FREELANCE — 2025
+            AVAILABLE FOR FREELANCE — {year}
           </span>
         </div>
       </div>
