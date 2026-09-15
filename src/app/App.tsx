@@ -57,7 +57,7 @@ const PROJECTS = [
     year: "2026",
     url: "https://github.com/phadecoh8/LinSentry",
     desc: "A linux lightweight security hardening auditor, written in Bash.",
-    img: "https://www.shutterstock.com/image-photo/close-colorful-bash-shell-script-code-2681432031?trackingId=945c4673-d503-4b04-b7f6-946b363c67b9&listId=searchResults",
+    img: "https://images.unsplash.com/photo-1640552435845-d65c23b75934?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     alt: "LinSentry",
   },
 
