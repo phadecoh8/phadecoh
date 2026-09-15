@@ -65,7 +65,6 @@ const PROJECTS = [
 
 const SOCIAL = [
   { label: "GitHub", icon: Github, href: "https://github.com/phadecoh8" },
-  { label: "X", icon: Twitter, href: "https://x.com/phadecoh" },
   { label: "Instagram", icon: Instagram, href: "https://www.instagram.com/phad_ecoh" },
   { label: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/fadero-joshua-a474ba375/" },
 ];
