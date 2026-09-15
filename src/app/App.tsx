@@ -260,7 +260,7 @@ function Hero() {
         <div className="mt-16 flex items-center gap-3">
           <span className="w-2 h-2 rounded-full bg-[#c8ff00] animate-pulse" />
           <span className="text-xs text-muted-foreground tracking-widest" style={{ fontFamily: "'DM Mono', monospace" }}>
-            AVAILABLE FOR FREELANCE — {year}
+            AVAILABLE FOR FREELANCE — 2026
           </span>
         </div>
       </div>
